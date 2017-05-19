@@ -42,9 +42,9 @@ sequenceDiagram
 gantt
 dateFormat YYYY-MM-DD
 section 第一阶段
-完善页面: 2017-03-01, 9d
+完善页面: 2015-03-01, 9d
 section 第二阶段
-完善功能: 2017-04-01, 9d
+完善功能: 2016-04-01, 9d
 section 第三阶段
 上线测试: 2017-05-01, 9d
 ```
