@@ -11,7 +11,7 @@
 先预售后生产，热门产品直接线上销售，0库存，0浪费，0风险。
 </p>
 
-![icense](https://img.shields.io/badge/license-apache2.4-green.svg)
+![license](https://img.shields.io/badge/license-apache2.4-green.svg)
 
 
 ### UGC-IDEA
@@ -32,8 +32,8 @@
 
 ### Tech-using   
 
-- 前端语言  HTML  CSS  JS 
-- 后台语言  PHP 
+- 前端语言  HTML  CSS  JS
+- 后台语言  PHP
 - 使用框架  ThinkPHP
 - 模板引擎  Smarty
 - 环境搭建  LAMP
@@ -58,11 +58,3 @@
 
 联系：suoyuesmile@163.com   
 团队：织心衣项目组   
-学校：武汉纺织大学
-
-
-
-
-
-
-
